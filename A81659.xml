@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The day of iudgments modell. By the Lady Eleanor Douglas.</title>
+            <author>Douglas, Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81659</idno>
+            <idno type="STC">Wing D1983</idno>
+            <idno type="STC">Thomason E337_23</idno>
+            <idno type="STC">ESTC R200829</idno>
+            <idno type="EEBO-CITATION">99861463</idno>
+            <idno type="PROQUEST">99861463</idno>
+            <idno type="VID">113600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113600)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The day of iudgments modell. By the Lady Eleanor Douglas.</title>
+                  <author>Douglas, Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 15 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation VII --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113600:1" rendition="simple:additions"/>
+            <p>THE DAY OF IVDGEMENTS Modell.</p>
+            <p>By the LADY ELEANOR DOUGLAS.</p>
+            <q>
+               <bibl>REVELATION, Chap. 7.</bibl>
+               <p>To day if yee ſhall heare his voice.</p>
+            </q>
+            <p>Printed in the Yeare, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113600:2"/>
+            <pb n="3" facs="tcp:113600:2"/>
+            <head>FROM THE La: <hi>ELEANOR DO<g ref="char:V">Ʋ</g>GLAS.</hi> Vpon the 7. Chapter of the REVELATION.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He</hi> Time come to remove, the <hi>Covering</hi> having NO ſhort ſpace been ſhutt up in the <hi>ARKE,</hi> our <hi>preſent</hi> ſtate <hi>alſo</hi> have <hi>preſented an Olive-Leafe plucked from the</hi> Tree <hi>of</hi> LIFE, <hi>of the</hi> VVaters <hi>abate dryed up,</hi> as it were, <hi>thoſe</hi> Teares <hi>from the face of the Earth,</hi> as appeares finiſh'd a tedious <hi>
+                  <g ref="char:V">Ʋ</g>ale of <g ref="char:V">Ʋ</g>ani<g ref="char:EOLhyphen"/>ty:</hi> for <hi>ſoules</hi> impriſoned without <hi>re<g ref="char:EOLhyphen"/>leaſe</hi>
+               <pb n="4" facs="tcp:113600:3" rendition="simple:additions"/>
+and reſtleſſe, till <hi>Times</hi> utmoſt minnit run out, or <hi>Expired.</hi>
+            </p>
+            <p>So of the <hi>DOVES-LAST return findes reſt for the</hi> Sole <hi>of her foote,</hi> as fol<g ref="char:EOLhyphen"/>lowes: Revealed even the moſt <hi>holy and reſerved of</hi> Time <hi>and</hi> Seaſons <hi>conſeald Miſtery;</hi> Except that of the unknown DAY and Houre imparted NOT to <hi>Angels:</hi> Namely, <hi>NOT Yeares;</hi> But forty <hi>dayes,</hi> The day of <hi>Judgements</hi> Laſt <hi>Warning-peice;</hi> AS the number of <hi>forty</hi> no ſtranger to the preſent either: which here bears date from <hi>Eaſter-weeke</hi> 1646. to the <hi>ASSENSION</hi> thereabout, for appearance before the <hi>Judge of quick and dead;</hi> His great <hi>Tri<g ref="char:EOLhyphen"/>bunall</hi> extracted out of that <hi>ſealed</hi> Num<g ref="char:EOLhyphen"/>ber, <hi>a Hundred forty foure &amp;c.</hi> Saying, <hi>he heard the Number of Them</hi> Revelati. 7. Chap. Wherefor the Keeper of the great Seal, and the Cryers voice, Thus <hi>(verſe</hi> 2.)</p>
+            <pb n="5" facs="tcp:113600:3"/>
+            <p>VVhere farther contains Theſe, be<g ref="char:EOLhyphen"/>longing to Our <hi>Clymate</hi> or <hi>Jland</hi> deſcri<g ref="char:EOLhyphen"/>bed for a <hi>Tryall before a Thron of Judica<g ref="char:EOLhyphen"/>ture,</hi> NOT <hi>heard till ſuch an appointed</hi> Time: witneſſed by thoſe reſtrained <hi>Winds foure,</hi> withall points at <hi>Eaſter</hi> Terme in <hi>May,</hi> the firſt Terme; VVineſſe the freſh Boughes in their hands, <hi>(all in white Robes) Where the in<g ref="char:EOLhyphen"/>nocent Lambe,</hi> as it were, <hi>araignd before Them:</hi> And by Them alſo evident, where the <hi>Jury</hi> called by Name <hi>Judah,</hi> the <hi>Fore-man</hi> of thoſe Twelve <hi>godfathers</hi> or <hi>Elders ſealed in the Foreheads,</hi> or <hi>ſworn-men;</hi> And ſuch innumerable attendants as though the great day <hi>Come: Such Le<g ref="char:EOLhyphen"/>gions of ANGELS ſtanding about the Throne, and about the Jury,</hi> where <hi>face to face the foure</hi> VVITNESSES <hi>all</hi> Thronging <hi>to heare their</hi> Teſtimony, <hi>Namely the foure Beaſts,</hi> what they pro<g ref="char:EOLhyphen"/>duce,
+<pb n="6" facs="tcp:113600:4"/>
+Theſe makes it plaine enough: About this <hi>Priſoner,</hi> his holding up the hand at the <hi>BARRE,</hi> the very <hi>MODEL</hi> of a Court, repreſenting it: where ſhewes withall in the Peer<g ref="char:EOLhyphen"/>leſſe Lambs Livory and poſture<hi>;</hi> This his humble Servant, <hi>(by the Lambe re<g ref="char:EOLhyphen"/>preſented)</hi> preſents his Perſon before the <hi>Throne,</hi> together with the woefull ſtate of ſo many Priſoners at this Time, being accompanied there-with:</p>
+            <p>But proceeding with this, the day of <hi>Judgements <g ref="char:V">Ʋ</g>ſher;</hi> doubtleſſe where made by Them, ſuch Lowe <hi>Obeyſance</hi> to <hi>HIM ſitting on the Throne, ſubſcrib<g ref="char:EOLhyphen"/>ing &amp;</hi> ſubmitting to his Pleaſure, ſay<g ref="char:EOLhyphen"/>ing, <hi>Amen, &amp;c.</hi> (verſe)</p>
+            <p>And ſo the <hi>Jury</hi> alſo, thoſe <hi>Elders</hi> No ordinary MEN: declares this Pri<g ref="char:EOLhyphen"/>ſoner one of their owne degree: NO
+<pb n="7" facs="tcp:113600:4"/>
+               <hi>Common</hi> ONE, pleading Not guilty, neither deſerving <hi>death</hi> or <hi>impriſonment:</hi> The <hi>Lamb acquits HIM here, though</hi> Condemn'd. Nevertheleſſe; <hi>The white Robes</hi> ſuffers, where ſo many hands (as it were) held up; AS goes the <hi>
+                  <g ref="char:V">Ʋ</g>ERDJCT:</hi> SO the ſentence <hi>LORD have mercy on Them; And ſo theirs the</hi> KINGDOM <hi>of</hi> Heaven, as declared; <hi>The</hi> Lambe <hi>hath Compaſ<g ref="char:EOLhyphen"/>ſion on them; HIM-SELFE ſhall Lead Them to</hi> Living-Springs <hi>and</hi> Foun<g ref="char:EOLhyphen"/>tains: <hi>Coeleſtiall FO<g ref="char:V">Ʋ</g>NTAINS</hi> and <hi>SPRJNGS, which never fayle, or ſhall be taken away,</hi> intayld ſo ſure.</p>
+            <p>And in which portion of Scripture, as incluſive <hi>Whitſontydes</hi> miſtery: Sha<g ref="char:EOLhyphen"/>dowed too under the <hi>White Robe,</hi> (as much to ſay) <hi>The great and dreadfull day</hi> in the Moneth of <hi>MAY:</hi> NO
+<pb n="8" facs="tcp:113600:5"/>
+more <hi>Whitſontides,</hi> as by the Suns not <hi>Lightning on them, &amp;c.</hi>
+            </p>
+            <p>And ſo much for <hi>Eaſter</hi> and <hi>Penticoſt,</hi> a <hi>feaſt</hi> obſerv'd by <hi>Jew</hi> &amp; <hi>Chriſtian,</hi> cleer<g ref="char:EOLhyphen"/>ly expreſt <hi>by that ſealed Number, and by the</hi> others <hi>without</hi> Number <hi>of ſo Many ſeverall</hi> Nations, <hi>whereas</hi> Noting with<g ref="char:EOLhyphen"/>all; <hi>Baptiſme,</hi> and the LORDS <hi>Supper</hi> adminſtred (only) at thoſe two Feaſt-times, as heretofore an Old cuſtome<hi>: (verſ) So they ſhall</hi> Thirſt <hi>no more,</hi> NOR <hi>hunger</hi> either <hi>in that Kind,</hi> an unlawfull reſtraint, with<g ref="char:EOLhyphen"/>out doubt points at the Preſent. VVhere <hi>Virgins</hi> excluded from <hi>living Waters thoſe.</hi>
+            </p>
+            <p>Herewith, one Thing more: Ma<g ref="char:EOLhyphen"/>king known, touching That queſtion By one of the Grand-jury-Elders, ſay<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:113600:5"/>
+               <hi>(verſe) What are Theſe which are Arrayed in white, and whence come They?</hi> Anſwered <hi>HJM,</hi> Sir, <hi>Thou knoweſt;</hi> (as much to ſay,) The preſent <hi>Reigns character</hi> or Colours: Serves both for the Yeare 1644. to bee accompliſhed before the Church her Triumphs or re<g ref="char:EOLhyphen"/>joycing ſhew: And his <hi>Crownation</hi> ſolemnized in <hi>March</hi> 1624. compleat about <hi>EASTER:</hi> HE, the foure and twenteth ſince the <hi>Conqueſt,</hi> of thoſe <hi>Elders Jn-Thrond:</hi> As Not unknown, both Father and Sonne about the afore<g ref="char:EOLhyphen"/>ſaid RESVRRECTION <hi>Feaſt</hi> Crown'd. VVho needs Then inquire what <hi>STRANGERS</hi> Theſe? Much like as in the <hi>Glaſſe,</hi> one knew not <hi>his owne FACE:</hi> Or theſe in the SPRING, as it were, going a PRECESSION, <hi>with thoſe Palms in</hi> Their <hi>hands,</hi> extended from the
+<pb n="10" facs="tcp:113600:6"/>
+yeare, 1625. to the yeare, 1645. That deliverance <hi>Time:</hi> Hetherto for born, (as it were, <hi>the Winds reſtraind)</hi> as ſince <hi>Yeare,</hi> 1605 ſo long ſince that <hi>Powder-Blowe</hi> intended.</p>
+            <div type="part">
+               <head>
+                  <hi>Revelation,</hi> CHAP. XIIII.</head>
+               <p>ANd thus, abrupt for Expedition ſake; Farthermore a touch <hi>of This the finall blowe, for the ſake of his Choſen: As</hi> the <hi>Time</hi> ſhortn'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in conſideration <hi>of which,</hi> the haſtened <hi>END,</hi> So ſhewes how the VVO<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>niſtical Weeke abated,</hi> how much, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the houre COME</hi> of HIS <hi>Judgem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt:</hi> By that great ARMEY <hi>a hundred forty &amp; foure Thouſand, ſinging both one ſong,</hi> with the former ſealed Number, as <hi>Chap.</hi> the 7. informes: Extoling ſuch a Yeare accompliſhed of our SALVATION, with theſe harping <hi>The ſame</hi> Note, <hi>The yeare of our</hi> Redemption, 1644. to bee
+<pb n="11" facs="tcp:113600:6"/>
+accompliſhed, <hi>Accompanying the Day of J<g ref="char:V">Ʋ</g>DGEMENTS houre, imme<g ref="char:EOLhyphen"/>diately which followes, Who before hand tune the</hi> MARRIAGE-SONG, <hi>ſo all following the</hi> LAMB <hi>whetherſoever he goes.</hi> Alſo which Number includes the 4000. <hi>yeare</hi> of the <hi>world,</hi> his Incarnation Then. <hi>Chap.</hi> 21</p>
+               <p>And ſo much for <hi>the Brid,</hi> prepared the <hi>LAMBS Wife: Compared to ſuch a uniform CITIE;</hi> where <hi>a Hun<g ref="char:EOLhyphen"/>dred forty foure Cubits</hi> the meaſured <hi>wall;</hi> (called <hi>Salvation, Iſaiah</hi> 60.) Namely, the afore<g ref="char:EOLhyphen"/>ſaid Yeare of GOD, and ſerves for Dayes and Houres too, with the 4000. yeares of the <hi>World,</hi> our Saviours firſt Comming.</p>
+               <p>As here the MISTICALL-VVEEKE <hi>of ſix</hi> Thouſand <hi>Yeares</hi> current, expreſt in the Number of the <hi>Lambs followers:</hi> The <hi>Hundred forty and foure, &amp;c. ſtanding on the</hi> Mount:</p>
+               <p>Even the <hi>Houres</hi> fulfilling of SIX
+<pb n="12" facs="tcp:113600:7"/>
+DAYES, amounting to a <hi>hundred forty foure Houres;</hi> or Six times <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>24 (or 12 times 12.) As the equall Houres di<g ref="char:EOLhyphen"/>ſtributed to <hi>DAY</hi> and <hi>NJGHT</hi> about EASTER: <hi>And ſix dayes, and ſix thouſand yeares, all one with</hi> HIM <hi>Eternity,</hi> ſo much ſuffices.</p>
+               <p>VVhere alſo <hi>forty odd</hi> DAYES, <hi>(Chap.</hi> 14.) between <hi>Eaſter</hi> and <hi>Whit<g ref="char:EOLhyphen"/>ſontyd:</hi> By his ſitting on the <hi>WHITE CLO<g ref="char:V">Ʋ</g>D proclaimed, One like the Son of MAN crown'd;</hi> (to wit) <hi>Whitſon<g ref="char:EOLhyphen"/>tyds figure or expreſsion:</hi>
+               </p>
+               <p>As this for another, <hi>Caſt in the ſame mould,</hi> (Chap. 19. <hi>&amp;</hi> 20.) <hi>ſeal'd with Him that ſatt on the White HORSE, with his</hi> Albion-trayn. And again, <hi>Hee, who ſatt on the great white</hi> Throne: from whoſe dreadfull face, <hi>EARTH</hi> and <hi>HEAVEN fled away;</hi> And
+<pb n="13" facs="tcp:113600:7" rendition="simple:additions"/>
+                  <hi>hell and death delivering up iheir</hi> Priſoners, <hi>as the</hi> ſand <hi>of the</hi> SEA: as the VVorld <hi>Then</hi> to receive <hi>Condigne reward,</hi> NO better which have improved their <hi>preci<g ref="char:EOLhyphen"/>ous Talent</hi> of <hi>TJME,</hi> ſixteen com<g ref="char:EOLhyphen"/>pleat <hi>Centuries</hi> ſince <hi>O<g ref="char:V">Ʋ</g>R bleſſed</hi> Sa<g ref="char:EOLhyphen"/>viours <hi>JNCARNATJON,</hi> pro<g ref="char:EOLhyphen"/>ved by Scripture account.</p>
+               <p>VVitneſſe that <hi>
+                     <g ref="char:V">Ʋ</g>niverſall</hi> impoſed <hi>Taxe,</hi> in the Yeare ONE <hi>and</hi> FOR<g ref="char:EOLhyphen"/>TY of <hi>Caeſar Auguſt-reigne:</hi> Yet not like to the preſent heavie dayes ſince (1641) but <hi>weighed:</hi> Of whoſe difficult Number 666. ſo obſcure; The <hi>truth of it,</hi> even ſo many Moneths as ſtiled the Number of a MAN. And the Moneths of <hi>WOMAN</hi> her <hi>Reck<g ref="char:EOLhyphen"/>ning too;</hi> As fullfils HIS 55. yeares Reigne and a halfe. VVherein the <hi>peace-maker, the Lamb of</hi> GOD, <hi>came in<g ref="char:EOLhyphen"/>to</hi>
+                  <pb n="14" facs="tcp:113600:8" rendition="simple:additions"/>
+                  <hi>the World:</hi> So the cruell Beaſt, <hi>bea<g ref="char:EOLhyphen"/>ring ſeven heads and ten horns (Chap.</hi> 13.) it being conſidered, who Needs to bee unreſolved, <hi>who the</hi> MAN <hi>of ſinne; Or</hi> what Date that writing bears <hi>(miſtery-Babylon)</hi> Or whom it Concerns <hi>(Chap.</hi> 17.) No leſſe then the <hi>LORDS ſecond Comming</hi> which points at it; The day of <hi>Judgements</hi> expreſſe <hi>Character,</hi> by thoſe <hi>Sabbaticall heads, and ſinfull horns tenne:</hi> VVhen as the MAN OF SIN, the ROMAN <hi>Beaſt</hi> aged 17. <hi>Centu<g ref="char:EOLhyphen"/>ries. And the ſervants of the Lamb as ſealed in the foreheads with his Fathers</hi> Numbe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Likewiſe the <hi>Beaſt with his marke,</hi> ſhews what <hi>Communion</hi> his Factors have, with <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their <hi>Father.</hi>
+               </p>
+               <p>And thus in the 15. Yeare of <hi>Tiberius</hi> Reigne, (as Saint <hi>Luke</hi> beares witneſſe) Our <hi>Saviour</hi> about <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Yeares of age <hi>Then,</hi> That was about the age of Yeares 15, When as <hi>Auguſt<g ref="char:EOLhyphen"/>us HE deceaſed,</hi> ſince when the Moneth of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi>
+                  <pb n="15" facs="tcp:113600:8"/>
+Continues in the Name of the <hi>BEAST</hi> ever ſince; So then the aforeſaid Monethes his Numbred reigne. Who that Other, with <hi>two Horns like a Lambe, That exerciſeth all the Power there, where NO Man buys or ſels, &amp;c.</hi> No more but referred to themſelves.</p>
+               <p>
+                  <hi>So prayſe him the ancient of dayes, for ever more Day and Night, his ancient ſervants, Hee that hath begining None or ending.</hi>
+               </p>
+               <p>Laſtly, for which premiſes concerning <hi>Priſoners</hi> araignd, <hi>Theſe keyes of darknes,</hi> excluds Not theſe, of expreſſing the Churches power <hi>of</hi> binding &amp; looſing: As here The Model or patterne Ther<g ref="char:EOLhyphen"/>of: What Diſcipline Agreeable with the APOSTLES, Rules Included: where The PEOPLES approbation and Conſent: As it were ſhadowed under That Multitudes Holding up their HANDS, with Thoſe Sealed ELDERS Verdict or Iudgement, joyning Their Voyces, ſaying; AMEN, &amp;c. As directed to <hi>Eaſtern and Weſtern Churches</hi> both, (Verſe 2) By that <hi>Angels aſcending from the Eaſt.</hi>
+               </p>
+               <p>And thus concluding with the Number of <hi>his</hi> rageing Reigne, the <hi>Antichriſtian Beaſt:</hi> Even ſince that <hi>Sea-Monſter</hi> 88. With <hi>that Admirable</hi> Victory, <hi>Juſt</hi> 666. <hi>monethes,</hi> or 55. Yeares and a halfe; <hi>So juſt and true are Thy wayes: Thou King of Saints.</hi>
+               </p>
+               <trailer>FJNJS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
